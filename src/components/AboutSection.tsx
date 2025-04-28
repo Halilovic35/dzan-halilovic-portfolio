@@ -103,7 +103,7 @@ export default function AboutSection() {
             className="z-20"
           >
             <p className="text-gray-300/90 text-sm leading-relaxed">
-              I'm a Frontend Developer specializing in building responsive, modern websites and scalable web applications. I work primarily with React, Next.js, TypeScript, Tailwind CSS, and JavaScript. Through my role at Finanz Informatik and my independent development work, I have gained strong experience in creating production-ready digital solutions.<br /><br />
+              I&apos;m a Frontend Developer specializing in building responsive, modern websites and scalable web applications. I work primarily with React, Next.js, TypeScript, Tailwind CSS, and JavaScript. Through my role at Finanz Informatik and my independent development work, I have gained strong experience in creating production-ready digital solutions.<br /><br />
               My focus is on writing clean, maintainable code, ensuring performance, accessibility, and delivering seamless user experiences. I am passionate about continuous learning, keeping up with the latest technologies, and contributing to impactful web projects.
             </p>
           </DraggablePanel>
