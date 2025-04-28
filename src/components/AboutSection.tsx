@@ -199,7 +199,7 @@ export default function AboutSection() {
               <div className="flex items-start gap-2 sm:gap-3">
                 <FaGlobe className="text-lg sm:text-xl text-accent flex-shrink-0 mt-1" />
                 <p className="leading-relaxed">
-                  Available for remote jobs across Europe & worldwide 🌍
+                  Available for remote jobs across Europe &amp; worldwide 🌍
                 </p>
               </div>
             </div>
